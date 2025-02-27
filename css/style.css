@@ -41,6 +41,15 @@ header h1 {
     font-size: 2rem;
 }
 
+form div {
+    margin-bottom: 15px;
+}
+
+.logar a,
+.cadastrar a{
+    font-style: italic;
+}
+
 /* Estilo dos campos de formulário */
 form label {
     font-weight: bold;
